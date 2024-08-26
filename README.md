@@ -21,7 +21,9 @@ OBJECTIVES
 
 
 a.	Analysing the capability of some machine learning models and deep learning model and its capability in its precision of detecting fraud
+
 b.	Implementation of a voting ensemble method to combine the strength of the base models
+
 c.	Evaluate the performance of the ensemble method and its optimised threshold use
 
 
