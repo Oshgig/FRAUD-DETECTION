@@ -1,26 +1,30 @@
 # FRAUD-DETECTION
 
-DEVELOPING A TRANSFERABLE VOTING ENSEMBLE MODEL FOR IMPROVING CREDIT CARD FRAUD DETECTION PRECISION
+Optimized Threshold Voting Ensemble Classifier for Credit Card Fraud Detection
+
 
 
 PROJECT OVERVIEW
 
+AIM
 
-This project aims to develop a transferable model for generalizing  credit card fraud detection for improving precision. The ensemble model combines the strengths of multiple base model to enhance fraud detection performance while maintaining high recalll and low false positive.
+
+The aim is to accurately predict fraudulent activities and reduce the classification of non-fraudulent activities as fraudulent.
 
 
-MOTIVATION
+
+
 
 
 
 OBJECTIVES
 
 
-•	Development and training of modeling algorithms for developing a transfer model in credit card fraud detection 
-•	Evaluating the models based on their precision, recall, ROC, and confusion matrix
-•	The combination of the evaluated models with their great predictive nature using the Voting Ensemble model
-•	Deployment of predictive  model
-•	Threshold setting to determine when a transaction should be flagged as potential fraud
+a.	Analysing the capability of some machine learning models and deep learning model and its capability in its precision of detecting fraud
+b.	Implementation of a voting ensemble method to combine the strength of the base models
+c.	Evaluate the performance of the ensemble method and its optimised threshold use
+
+
 
 
 DATASET
